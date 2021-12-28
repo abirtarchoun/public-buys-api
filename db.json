@@ -101,8 +101,7 @@
       "location": "Sousse",
       "datecreation": "Fri Dec 24 2021 2:14:26 GMT+0100"
     }
-  ],
-    "Teams": [
+  ],"Teams": [
     {
       "id": 1,
       "name": "Abir Tarchoun",
@@ -135,8 +134,7 @@
       "image": "assets/images/rayen.jpg",
       "city": "tunis"
     }
-  ],
-   "Clients": [
+  ],"Clients": [
     {
       "id": "1",
       "name": "Alexandra Jae",
