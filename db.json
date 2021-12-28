@@ -100,8 +100,7 @@
       "image": "images/v6.jpg",
       "location": "Sousse",
       "datecreation": "Fri Dec 24 2021 2:14:26 GMT+0100"
-    }
-  ],
+    },
      {
       "id": "4",
       "owner": "abir",
@@ -110,6 +109,7 @@
       "location": "Mahdia",
       "datecreation": "Fri Dec 24 2021 2:14:26 GMT+0100"
     }
+ ]
   
  }
 
