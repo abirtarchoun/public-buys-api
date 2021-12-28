@@ -11,7 +11,7 @@
 
     "puissance":"150 ch ",
     "Kilometrage": "220/klm",
-   "prix": 250
+   "price": 250
   },
     
     {
@@ -23,7 +23,7 @@
       "assets/images/im3.jpg",
     "puissance":"150 ch ",
     "Kilometrage": " 220/klm",
-    "prix": 250
+    "price": 250
   },
   {
     "id": "3",
@@ -36,7 +36,7 @@
 
     "puissance":"150 ch ",
     "Kilometrage": " 220/klm",
-    "prix": 200000
+    "price": 200000
 
   },
   {
@@ -50,7 +50,7 @@
 
     "puissance":"150 ch ",
     "Kilometrage": " 220/klm",
-    "prix": 200000
+    "price": 200000
   },
   {
     "id": "5",
@@ -61,7 +61,7 @@
     "image": "assets/images/plan19.jpg",
     "puissance":"150 ch ",
     "Kilometrage": " 220/klm",
-    "prix": 200000
+    "price": 200000
   },
   {
     "id": "6",
@@ -73,7 +73,7 @@
       "assets/images/plan21.jpg",
     "puissance":"150 ch ",
     "Kilometrage": "220/klm",
-    "prix": 200000
+    "price": 200000
   }
 
 
